@@ -30,3 +30,4 @@ E:\Repos\GitGab13\TestRepo2\Solution1\Solution1_API\obj\Debug\net8.0\refint\Solu
 E:\Repos\GitGab13\TestRepo2\Solution1\Solution1_API\obj\Debug\net8.0\Solution1_API.pdb
 E:\Repos\GitGab13\TestRepo2\Solution1\Solution1_API\obj\Debug\net8.0\Solution1_API.genruntimeconfig.cache
 E:\Repos\GitGab13\TestRepo2\Solution1\Solution1_API\obj\Debug\net8.0\ref\Solution1_API.dll
+E:\Repos\GitGab13\TestRepo2\Solution1\Solution1_API\obj\Debug\net8.0\Solution1_API.sourcelink.json
